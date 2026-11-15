@@ -1,9 +1,9 @@
 {
-    "owner": {
-        "username": "GZtudio-Dev",
-        "email": "mediazee33@gmail.com"
-    },
-    "records": {
-        "CNAME": "gztudio-dev.github.io"
-    }
+  "owner": {
+    "username": "GZtudio-Dev",
+    "email": "mediazee33@gmail.com"
+  },
+  "records": {
+    "CNAME": "gztudio-dev.github.io"
+  }
 }
